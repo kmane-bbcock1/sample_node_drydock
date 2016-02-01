@@ -5,9 +5,10 @@ language: node_js
 node_js:
   - "0.12"
   - "0.10.25"
-  - t.10.25
-  - yr.yugug
-  - "*.10"
+  - "0.6"
+  - "0.8"
+  - "4.2.0"
+  - "5"
     
 env:
   global:
