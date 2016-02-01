@@ -3,9 +3,13 @@ language: node_js
 
 # Version number
 #node_js:
-  - 0.12
+  - "0.12"
   - 0.10.25
   - t.10.25
+  - "yr.yugug"
+  - "*.10.*"
+  - "765l.kh"
+  - "5.10.25"
   - "7.10.25"
   - "%47khud"
   - *.10.25
